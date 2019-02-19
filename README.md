@@ -9,3 +9,5 @@
 介绍链接：[上班时间请勿打开，158万张鉴黄图片数据集来喽~](https://mp.weixin.qq.com/s/RFLqwaqursmxgZevhgmTLQ)
 github: [https://github.com/EBazarov/nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls)
 
+5. 生鲜识别数据集
+链接: https://pan.baidu.com/s/1xq44SOl2Dp4MZAv9UWRU9w
