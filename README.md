@@ -11,3 +11,9 @@ github: [https://github.com/EBazarov/nsfw_data_source_urls](https://github.com/E
 
 5. 生鲜识别数据集
 链接: https://pan.baidu.com/s/1xq44SOl2Dp4MZAv9UWRU9w
+
+6. 人脸识别数据集： 
+E:\DataSet\人脸识别
+
+7. 人脸关键点数据集： 
+E:\DataSet\人脸关键点
