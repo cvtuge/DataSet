@@ -17,3 +17,6 @@ E:\DataSet\人脸识别
 
 7. 人脸关键点数据集： 
 E:\DataSet\人脸关键点
+
+8. Fruits-360：水果图像数据集
+http://6742a319.wiz03.com/share/s/1DgGcp0MgknT2D1F7t1gWYTm2kmq0w0WaAlS2-VBHK3rG83_
